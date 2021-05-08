@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Kos Programming Language
+email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  General purpose scripting language, designed with usability in mind.
+  Simple and easy to learn, with feature-rich, powerful modern syntax.
+  Useful for standalone scripts and for embedding in other applications.
+  Provides robust support for multi-threading.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://kos-lang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: cdragan
+github_username:  cdragan
 
 # Build settings
 remote_theme: aksakalli/jekyll-doc-theme@gh-pages 
